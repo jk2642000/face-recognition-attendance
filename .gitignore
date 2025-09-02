@@ -176,3 +176,10 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
