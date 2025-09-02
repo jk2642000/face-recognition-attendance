@@ -37,7 +37,7 @@ A robust face recognition system for registering users and marking attendance au
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/face-recognition-attendance.git
+git clone https://github.com/jk2642000/face-recognition-attendance.git
 cd face-recognition-attendance
 ```
 
